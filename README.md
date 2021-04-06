@@ -33,8 +33,8 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 
 ## _Cloning_
 ```cmd
-> git clone https://github.com/Pxc7/LoL-Bot2
-> cd LoL-Bot2
+> git clone https://github.com/Pxc7/LoL-Bot3
+> cd LoL-Bot3
 ```
 
 ## _Install_
@@ -42,7 +42,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 > npm i
 ```
 
-## _Run the LoL-Bot2_
+## _Run the LoL-Bot3_
 ```cmd
 > npm start
 ```
